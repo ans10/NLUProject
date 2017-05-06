@@ -12,3 +12,6 @@ Additional sources needed:
 For creating word embeddings:
 https://nlp.stanford.edu/projects/glove/
 
+Additionally I have also attached scripts for running it on NYU HPC Cluster:
+submit.sh
+mycode.sh
