@@ -9,5 +9,5 @@ virtualenv venv-chainer -p python2.7
 source venv-chainer/bin/activate
 pip install chainer
 
-cd /home/ans556/STS
+cd your_project_directory
 python train.py $DL_ARGS
